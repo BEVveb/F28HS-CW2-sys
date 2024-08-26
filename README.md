@@ -1,2 +1,2 @@
-# F28HS-CW2-sys
-Hardware-Software Interface Second Coursework
+# F28HS Coursework 2
+This is a project for F28 Hardware-Software Interface Coursework 2: Mastermind
